@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Avtohlam1.0</string>
+    <string name="sales_icon">Sales</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_text">О нас</string>
+    <string name="main_text">Главная</string>
+    <string name="log_of_app">AvtoHlam</string>
+    <string name="bold_logo_of_app">NET</string>
+    <string name="str_product_date">Дата начала обучения</string>
+    <string name="str_product_level">Уровень</string>
+    <string name="description">Автоматическое резервное копирование по умолчанию не восстанавливает резервную копию, созданную из более новой версии вашего приложения, поскольку предполагает, что она может не работать для вас. Это может быть проблемой, если ваш пользователь переходит на новое устройство, на котором предустановлена более старая </string>
+</resources>
